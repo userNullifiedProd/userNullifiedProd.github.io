@@ -6,6 +6,8 @@ html, body {
   font-family: 'Exo', sans-serif;
   color: #222;
   scroll-behavior: smooth;
+  max-width: 100%;
+  overflow-x: hidden;
 }
 
 .navbar {
