@@ -224,6 +224,11 @@ footer {
     font-size: 2em;
     padding: .7rem;
   }
+  
+  .modpack-text h1 {
+    font-size: 250%;
+    padding-bottom: .25em;
+  }
 
 }
 
