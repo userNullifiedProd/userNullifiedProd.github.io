@@ -1,7 +1,7 @@
 var temp = document.cookie
 var darkMode = true;
 
-function changeMode() {
+function changeColor() {
 	if (darkMode) {
 	document.getElementById('body').style = "background-color: #343A40";
 	document.getElementById('revLogo').src = "assets/logoWhite.png";
@@ -64,13 +64,12 @@ function changeTheme() {
 		darkMode = false;
 		document.cookie = "darkMode=false";
 		console.log(document.cookie)
-		changeMode()
-	}
-	if (darkMode == false) {
+		changeColor()
+	} else if (darkMode == false) {
 		darkMode = true;
 		document.cookie = "darkMode=true";
 		console.log(document.cookie)
-		changeMode()
+		changeColor()
 	}
 }
 
