@@ -2,7 +2,7 @@ var temp = document.cookie
 var darkMode = true;
 
 function changeColor() {
-	if (darkMode) {
+	if (darkMode == true) {
 	document.getElementById('body').style = "background-color: #343A40";
 	document.getElementById('revLogo').src = "assets/logoWhite.png";
 	document.getElementById('navbar').className = "navbar navbar-expand-md navbar-dark bg-dark sticky-top";
@@ -29,7 +29,7 @@ function changeColor() {
 	document.getElementById('spartaDiscord').style = "color: white;";
 	document.getElementById('connect').style = "color: white;";
 	document.getElementById('footer').style = "background-color: #22262a;";
-   } else {
+   } else if (darkMode == false) {
 	document.getElementById('body').style = "background-color: white;";
 	document.getElementById('revLogo').src = "assets/logoBlack.png";
 	document.getElementById('navbar').style = "background-color: white;";
