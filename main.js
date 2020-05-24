@@ -62,23 +62,9 @@ function changeColor() {
 function changeTheme() {
 	if (darkMode == true) {
 		darkMode = false;
-		document.cookie = "darkMode=false";
-		console.log(document.cookie)
 		changeColor()
 	} else if (darkMode == false) {
 		darkMode = true;
-		document.cookie = "darkMode=true";
-		console.log(document.cookie)
 		changeColor()
 	}
-}
-
-if (temp == "") {
-	document.cookie = "darkMode=true"
-}
-if (temp = "darkMode=true") {
-	darkMode = true;
-}
-if (temp = "darkMode=false") {
-	darkMode = false;
 }
