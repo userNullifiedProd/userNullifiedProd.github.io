@@ -181,8 +181,10 @@ function changeLang() {
 $.get("https://ipinfo.io/json", function (response) {
     if (response.country == "CZ") {
     	tickbox.checked = false;
+	changeLang();
     } else {
     	tickbox.checked = true;
+	changeLang();
     }
 }, "jsonp");
 
