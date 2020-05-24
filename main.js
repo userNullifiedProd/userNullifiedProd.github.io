@@ -161,7 +161,7 @@ function changeLang() {
 		document.getElementById('experienceTitle').textContent = "Experience";
 		document.getElementById('experienceText').textContent = "An experienced Admin Team is a key to a good server. Our Admin Team can help you with any problem you might have with our servers, just ask!";
 
-		document.getElementById('spaceDesc').textContent = "Modpack zaměřený na prozkoumávání vesmíru a továrny.";
+		document.getElementById('spaceDesc').textContent = "A modpack about space exploration and factories.";
 		document.getElementById('spaceDownload').textContent = "Modpack can be downloaded from here";
 
 		document.getElementById('team').textContent = "Meet the Team";
