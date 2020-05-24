@@ -60,13 +60,13 @@ function changeMode() {
 }
 
 function changeTheme() {
-	if (darkMode) {
+	if (darkMode == true) {
 		darkMode = false;
 		document.cookie = "darkMode=false";
 		console.log(document.cookie)
 		changeMode()
 	}
-	if (!darkMode) {
+	if (darkMode == false) {
 		darkMode = true;
 		document.cookie = "darkMode=true";
 		console.log(document.cookie)
