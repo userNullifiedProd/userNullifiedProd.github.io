@@ -365,7 +365,7 @@ input:checked + .slider:before {
   }
   
   .modpack-text h1 {
-    font-size: 150%;
+    font-size: 200%;
     padding-bottom: .25em;
   }
 }
