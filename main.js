@@ -68,3 +68,4 @@ function changeTheme() {
 		changeColor()
 	}
 }
+changeColor()
