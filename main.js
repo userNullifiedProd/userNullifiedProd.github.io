@@ -100,7 +100,7 @@ function changeLang() {
 		document.getElementById('discordText').textContent = "Připojte se na Discord";
 
 		document.getElementById('about').textContent = "O nás";
-		document.getElementById('aboutPar1').textContent = "Jsme tým 3, přinášející vám Minecraft servery pro naše modpacky.";
+		document.getElementById('aboutPar1').textContent = "Jsme tým složený ze 3 lidí, přinášející vám Minecraft servery pro naše modpacky.";
 		document.getElementById('aboutPar2').textContent = "Vše začalo jen malým projektem pro kamarády, ale poté jsme si řekli, proč server neotevřít dalším lidem?";
 		document.getElementById('aboutPar3').textContent = "Poté co i komunita řekla proč ne, jsme zařídili pořádný server hosting, vše nastavili a nyní vám přinášíme naše skvělé servery!";
 
