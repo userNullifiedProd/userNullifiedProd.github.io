@@ -1,4 +1,5 @@
 var darkMode = true;
+
 function changeMode() {
 	if (darkMode) {
    	document.getElementById('body').style = "background-color: #343A40";
