@@ -32,7 +32,7 @@ function changeColor() {
    } else if (darkMode == false) {
 	document.getElementById('body').style = "background-color: white;";
 	document.getElementById('revLogo').src = "assets/logoBlack.png";
-	document.getElementById('navbar').style = "background-color: white;";
+	document.getElementById('navbar').className = "navbar navbar-expand-md navbar-light bg-light sticky-top";
 	document.getElementById('jumbotron').className = "row jumbotron";
 	document.getElementById('jumbotronText').style = "color: black;";
 	document.getElementById('aboutBackground').style = "background-color: white;";
