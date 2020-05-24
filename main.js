@@ -1,3 +1,4 @@
+var darkMode = true;
 function changeMode() {
 	if (darkMode) {
    	document.getElementById('body').style = "background-color: #343A40";
@@ -73,10 +74,10 @@ document.addEventListener('DOMContentLoaded', function() {
 		document.cookie = "darkMode=true"
 	}
 	if (temp = "darkMode=true") {
-		var darkMode = true;
+		darkMode = true;
 	}
 	if (temp = "darkMode=false") {
-		var darkMode = false;
+		darkMode = false;
 	}
 	changeMode()
 }, false);
