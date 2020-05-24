@@ -157,7 +157,7 @@ function changeLang() {
 		document.getElementById('stabilityTitle').textContent = "Stability";
 		document.getElementById('stabilityText').textContent = "Our servers are quite stable. Of course, anything can happen, our servers notify us, if anything bad is happening, so we can get on and fix it.";
 		document.getElementById('speedTitle').textContent = "Speed";
-		document.getElementById('speedText').textContent = "Nobody wants to play on a laggy server. We optimize our servers to the best of our abilities, to have as little lag as possible on our servers";
+		document.getElementById('speedText').textContent = "Nobody wants to play on a laggy server. We optimize our servers to the best of our abilities, to have as little lag as possible on our servers.";
 		document.getElementById('experienceTitle').textContent = "Experience";
 		document.getElementById('experienceText').textContent = "An experienced Admin Team is a key to a good server. Our Admin Team can help you with any problem you might have with our servers, just ask!";
 
