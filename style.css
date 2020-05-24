@@ -4,16 +4,23 @@ html, body {
   height: 100%;
   width: 100%;
   font-family: 'Exo', sans-serif;
-  color: #222;
   scroll-behavior: smooth;
+  -webkit-transition: all 1s ease-in-out;
+  -moz-transition: all 1s ease-in-out; 
+  -o-transition: all 1s ease-in-out; 
 }
 
 .navbar {
   padding: .8rem;
+  background-color: black;
 }
 
 .navbar-nav li {
   padding-right: 25px;
+}
+
+.nav-item-last {
+  padding-right: 5px;
 }
 
 .carousel-inner img {
@@ -90,6 +97,10 @@ html, body {
   border-radius: 0;
 }
 
+.darkBack {
+  background-color: #343A40 !important;
+}
+
 .padding {
   padding-bottom: 2rem;
 }
@@ -145,6 +156,42 @@ html, body {
   color: #4460bb;
 }
 
+.fa-arrow-alt-circle-up {
+  color: #737373;
+}
+
+#goTop {
+  position: fixed; /* Fixed/sticky position */
+  bottom: 20px; /* Place the button at the bottom of the page */
+  right: 30px; /* Place the button 30px from the right */
+  z-index: 99; /* Make sure it does not overlap */
+  border: none; /* Remove borders */
+  outline: none; /* Remove outline */
+  background-color: #d9d9d9; /* Set a background color */
+  color: white; /* Text color */
+  cursor: pointer; /* Add a mouse pointer on hover */
+  font-size: 20px;
+}
+
+#changeTheme {
+  border: none; /* Remove borders */
+  outline: none; /* Remove outline */
+  background-color: transparent; /* Set a background color */
+  color: #f0c420; /* Text color */
+  cursor: pointer; /* Add a mouse pointer on hover */
+  font-size: 25px;
+  padding-top: 0%;
+
+}
+
+#goTop:hover {
+  background-color: #bfbfbf;
+}
+
+#changeMode:hover {
+  background-color: #d7ab0f;
+}
+
 footer {
   background-color: #3f3f3f;
   color: #d5d5d5;
@@ -190,6 +237,12 @@ footer {
     font-size: 2.5em;
     padding: 1.2rem;
   }
+  
+  .modpack-text h1 {
+    font-size: 150%;
+    padding-bottom: .25em;
+  }
+
 }
 
 @media (max-width: 576px) {
@@ -222,8 +275,13 @@ footer {
     font-size: 2em;
     padding: .7rem;
   }
-
+  
+  .modpack-text h1 {
+    font-size: 150%;
+    padding-bottom: .25em;
+  }
 }
+
 
 
 /*---Firefox Bug Fix --*/

@@ -15,12 +15,12 @@
 
 	<title>Revolution</title>
 </head>
-<body>
+<body id="body">
 
 <!-- Navigation -->
-<nav class="navbar navbar-expand-md navbar-light bg-light sticky-top">
+<nav class="navbar navbar-expand-md navbar-light bg-light sticky-top" id="navbar">
 	<div class="container-fluid">
-		<a class="brand" href="#"><img src="assets/logoBlack.png"></a>
+		<a class="brand" href="#"><img src="assets/logoBlack.png" id="revLogo"></a>
 		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive">
 			<span class="navbar-toggler-icon"></span>
 		</button>
@@ -40,6 +40,9 @@
 				</li>
 				<li class="nav-item">
 					<a class="nav-link" href="#connect" id="connectNavText">Connect</a>
+				</li>
+				<li class="nav-item nav-item-last">
+					<button onclick="changeTheme()" id="changeTheme"><i class="fas fa-moon" id="themeIcon"></i></button>
 				</li>
 			</ul>
 		</div>
@@ -88,9 +91,9 @@
 </div>
 
 <div class="container-fluid">
-	<div class="row jumbotron">
+	<div class="row jumbotron" id="jumbotron">
 		<div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 col-xl-10">
-			<p class="lead">We have just launched our new Discord server! You can connect with other players and us here, and we might host a giveaway every so often! So what are you waiting for? Click that join button, and come say hi.</p>
+			<p class="lead" id="jumbotronText">We have just launched our new Discord server! You can connect with other players and us here, and we might host a giveaway every so often! So what are you waiting for? Click that join button, and come say hi.</p>
 		</div>
 		<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 col-xl-2">
 			<a href="https://discord.gg/U6t59aT"><button type="button" class="btn btn-outline-secondary btn-lg">Join the Discord</button></a>
@@ -99,34 +102,34 @@
 </div>
 
 <!--- Welcome Section -->
-<div class="container-fluid padding">
+<div class="container-fluid padding" id="aboutBackground">
 	<div class="row welcome text-center">
 		<div class="col-12">
 			<h1 class="display-4" id="about">About us</h1>
 		</div>
-		<div class="col-12">
+		<div class="col-12" id="aboutText">
 			<p>We are a team of 3, bringing you Minecraft servers for our custom modpacks.</p>
 			<p>It all started as a small side projects for friends, but then we thought, why not let other people in ?</p>
 			<p>After agreement from the server community, we got proper server hosting, set everything up, and now thanks to that, you are seeing this web</p>
 		</div>
-		<hr>
+		<hr id="aboutSpacer">
 	</div>
 </div>
 
 <!--- Three Column Section -->
 <div class="container-fluid padding">
 	<div class="row text-center padding">
-		<div class="col-xs-12 col-sm-6 col-md-4">
+		<div class="col-xs-12 col-sm-6 col-md-4" id="stability">
 			<i class="fas fa-check-square"></i>
 			<h3>Stability</h3>
 			<p>Our servers are quite stable. Of course, anything can happen, our servers notify us, if anything bad is happening, so we can get on and fix it.</p>
 		</div>
-		<div class="col-xs-12 col-sm-6 col-md-4">
+		<div class="col-xs-12 col-sm-6 col-md-4" id="speed">
 			<i class="fas fa-rocket"></i>
 			<h3>Speed</h3>
 			<p>Nobody wants to play on a laggy server. Our servers are optimized to the best of our abilities, to provide as little lag as possible.</p>
 		</div>
-		<div class="col-sm-12 col-md-4">
+		<div class="col-sm-12 col-md-4" id="experience">
 			<i class="fas fa-book"></i>
 			<h3>Experience</h3>
 			<p>An experienced Admin Team is a key to a good server. Our Admin Team can help you with any problem you might have with our servers, just ask!</p>
@@ -158,41 +161,41 @@
 </div>
 
 <!--- Cards -->
-<div class="container-fluid padding">
+<div class="container-fluid padding" >
 	<div class="row padding">
 		<div class="col-md-4">
-			<div class="card">
-				<img class="card-img-top" src="https://render.namemc.com/skin/3d/body.png?skin=f2d0168c1699f147&model=classic&theta=-30&phi=20&time=0&width=1200&height=1800">
+			<div class="card" id="userBackground">
+				<img class="card-img-top" src="https://render.namemc.com/skin/3d/body.png?skin=0ea9b5bd823dc9b4&model=classic&theta=-30&phi=20&time=0&width=1200&height=1800">
 				<div class="card-body">
-					<h4 class="card-title">UserNullified</h4>
-					<p class="card-text">
+					<h4 class="card-title" id="userTitle">UserNullified</h4>
+					<p class="card-text" id="userText">
 						Yes, that is a face mask. He made this website, and some of the code for the modpacks.
 					</p>
-					<p>Discord: null#4193</p>
+					<p id="userDiscord">Discord: null#4193</p>
 				</div>
 			</div>
 		</div>
 		<div class="col-md-4">
-			<div class="card">
+			<div class="card" id="saviorBackground">
 				<img class="card-img-top" src="https://render.namemc.com/skin/3d/body.png?skin=8751d8d43ca453f6&model=classic&theta=-30&phi=20&time=0&width=1200&height=1800">
 				<div class="card-body">
-					<h4 class="card-title">Savior9O9</h4>
-					<p class="card-text">
+					<h4 class="card-title" id="saviorTitle">Savior9O9</h4>
+					<p class="card-text" id="saviorText">
 						Yes that is an 'O' not a '0'. He hosts the servers, and this website! Also helped in making the modpacks.
 					</p>
-					<p>Discord: Savior9O9#7267</p>
+					<p id="saviorDiscord">Discord: Savior9O9#7267</p>
 				</div>
 			</div>
 		</div>
 		<div class="col-md-4">
-			<div class="card">
+			<div class="card" id="spartaBackground">
 				<img class="card-img-top" src="https://render.namemc.com/skin/3d/body.png?skin=aa5fe82771edd328&model=slim&theta=-30&phi=20&time=0&width=1200&height=1800">
 				<div class="card-body">
-					<h4 class="card-title">Sparta252</h4>
-					<p class="card-text">
+					<h4 class="card-title" id="spartaTitle">Sparta252</h4>
+					<p class="card-text" id="spartaText">
 						Aw man. The original creator of the modpacks! He's the one to pick mods, and the overall feel of the modpack.
 					</p>
-					<p>Discord: Sparta252#5606</p>
+					<p id="spartaDiscord">Discord: Sparta252#5606</p>
 				</div>
 			</div>
 		</div>
@@ -213,8 +216,8 @@
 </div>
 
 <!--- Footer -->
-<footer>
-	<div class="container-fluid padding">
+<footer id="footer">
+	<div class="container-fluid padding" >
 		<div class="row text-center">
 			<div class="col-12">
 				<h5>&copy;2020 userNullified</h5>
@@ -223,5 +226,8 @@
 		</div>
 	</div>
 </footer>
+
+<a href="#" id="goTop" class="btn btn-outline-light btn-lg"><i class="fas fa-arrow-alt-circle-up"></i></a>
+<script src="main.js" type="text/javascript"></script>
 </body>
 </html>
