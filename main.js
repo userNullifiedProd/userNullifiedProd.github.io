@@ -63,11 +63,13 @@ function changeTheme() {
 	if (darkMode) {
 		darkMode = false;
 		document.cookie = "darkMode=false";
+		console.log(document.cookie)
 		changeMode()
 	}
 	if (!darkMode) {
 		darkMode = true;
 		document.cookie = "darkMode=true";
+		console.log(document.cookie)
 		changeMode()
 	}
 }
