@@ -8,9 +8,9 @@
   },
   "natureRev": {
 			"version": "0.1a",
-			"name": "Space Revolution",
-			"descriptionCZ": "Modpack zaměřený na prozkoumávání vesmíru a tvoření velkých továren.",
-			"descriptionEN": "A modpack about exploring space and creating large factories.",
+			"name": "Nature Revolution",
+			"descriptionCZ": "Modpack zaměřený na farmaření a magii.",
+			"descriptionEN": "A modpack about farming and magic.",
 			"background": "https://github.com/userNullifiedProd/userNullifiedProd.github.io/blob/master/assets/spaceRev.png?raw=true"
   }
 }
