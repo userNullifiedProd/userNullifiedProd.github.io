@@ -177,7 +177,6 @@ function changeLang() {
 		document.getElementById('rights').textContent = "All Rights Reserved"
 	}
 }
-$.get("https://usernullifiedprod.github.io/json/launcher.json", function (response) {console.log(response)}, "jsonp");
 
 $.get("https://ipinfo.io/json", function (response) {
     if (response.country == "CZ") {
