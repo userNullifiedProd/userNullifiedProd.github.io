@@ -177,8 +177,7 @@ function changeLang() {
 		document.getElementById('rights').textContent = "All Rights Reserved"
 	}
 }
-
-$.get("https://ipinfo.io/json", function (response) {
+$.getJSON('https://ipinfo.io/json', function(response) {
     if (response.country == "CZ") {
 	    tickbox.checked = false;
 	    changeLang();
@@ -186,7 +185,7 @@ $.get("https://ipinfo.io/json", function (response) {
 	    tickbox.checked = true;
 	    changeLang();
     }
-}, "jsonp");
+});
 
 changeColor();
 changeLang();
