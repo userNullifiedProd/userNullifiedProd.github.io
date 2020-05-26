@@ -124,7 +124,7 @@ function changeLang() {
 
 		document.getElementById('connectText').textContent = "Spojte se s námi" 
 
-		document.getElementById('rights').textContent = "Všechna Práva Vyhrazena"
+		document.getElementById('rights').textContent = "Všechna práva vyhrazena"
 
 	} else if (tickbox.checked == true) {
 
@@ -174,7 +174,7 @@ function changeLang() {
 
 		document.getElementById('connectText').textContent = "Connect" 
 
-		document.getElementById('rights').textContent = "All Rights Reserved"
+		document.getElementById('rights').textContent = "All rights reserved"
 	}
 }
 $.getJSON('https://ipinfo.io/json', function(response) {
