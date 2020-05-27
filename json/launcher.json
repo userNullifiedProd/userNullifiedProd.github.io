@@ -1,5 +1,6 @@
 {
   	"modpack1": {
+		"released": false,
 		"version": "WIP",
 		"name": "Mystical Revolution",
 		"descriptionCZ": "Modpack zaměřený na magii.",
@@ -7,6 +8,7 @@
 		"background": "https://github.com/userNullifiedProd/userNullifiedProd.github.io/blob/master/assets/modpack1.png?raw=true"
   	},
 	"modpack2": {
+		"released": true,
 		"version": "0.1a",
 		"name": "Space Revolution",
 		"descriptionCZ": "Modpack zaměřený na prozkoumávání vesmíru.",
@@ -14,6 +16,7 @@
 		"background": "https://github.com/userNullifiedProd/userNullifiedProd.github.io/blob/master/assets/modpack2.png?raw=true"
   	},
 	"modpack3": {
+		"released": false,
 		"version": "WIP",
 		"name": "Chaotic Revolution",
 		"descriptionCZ": "Jediný limit je vaše fantazie. Je tu vše od technologie do magie.",
