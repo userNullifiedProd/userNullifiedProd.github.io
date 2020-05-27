@@ -1,19 +1,19 @@
 {
-  	"spaceRev": {
-		"version": "0.1a",
-		"name": "Space Revolution",
-		"descriptionCZ": "Modpack zaměřený na prozkoumávání vesmíru.",
-		"descriptionEN": "A modpack about space exploration.",
-		"background": "https://github.com/userNullifiedProd/userNullifiedProd.github.io/blob/master/assets/spaceRev.png?raw=true"
-  	},
-  	"mysticalRev": {
+  	"modpack1": {
 		"version": "WIP",
 		"name": "Mystical Revolution",
 		"descriptionCZ": "Modpack zaměřený na magii.",
 		"descriptionEN": "A modpack about farming and magic.",
 		"background": "https://github.com/userNullifiedProd/userNullifiedProd.github.io/blob/master/assets/mysticalRev.png?raw=true"
   	},
-	"chaoticRev": {
+	"modpack2": {
+		"version": "0.1a",
+		"name": "Space Revolution",
+		"descriptionCZ": "Modpack zaměřený na prozkoumávání vesmíru.",
+		"descriptionEN": "A modpack about space exploration.",
+		"background": "https://github.com/userNullifiedProd/userNullifiedProd.github.io/blob/master/assets/spaceRev.png?raw=true"
+  	},
+	"modpack3": {
 		"version": "WIP",
 		"name": "Chaotic Revolution",
 		"descriptionCZ": "Jediný limit je vaše fantazie. Je tu vše od technologie do magie.",
