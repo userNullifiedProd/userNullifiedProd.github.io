@@ -1,16 +1,23 @@
 {
-  "spaceRev": {
-			"version": "0.1a",
-			"name": "Space Revolution",
-			"descriptionCZ": "Modpack zaměřený na prozkoumávání vesmíru a tvoření velkých továren.",
-			"descriptionEN": "A modpack about exploring space and creating large factories.",
-			"background": "https://github.com/userNullifiedProd/userNullifiedProd.github.io/blob/master/assets/spaceRev.png?raw=true"
-  },
-  "natureRev": {
-			"version": "0.1a",
-			"name": "Nature Revolution",
-			"descriptionCZ": "Modpack zaměřený na farmaření a magii.",
-			"descriptionEN": "A modpack about farming and magic.",
-			"background": "https://github.com/userNullifiedProd/userNullifiedProd.github.io/blob/master/assets/spaceRev.png?raw=true"
-  }
+  	"spaceRev": {
+		"version": "0.1a",
+		"name": "Space Revolution",
+		"descriptionCZ": "Modpack zaměřený na prozkoumávání vesmíru.",
+		"descriptionEN": "A modpack about space exploration.",
+		"background": "https://github.com/userNullifiedProd/userNullifiedProd.github.io/blob/master/assets/spaceRev.png?raw=true"
+  	},
+  	"mysticalRev": {
+		"version": "WIP",
+		"name": "Mystical Revolution",
+		"descriptionCZ": "Modpack zaměřený na magii.",
+		"descriptionEN": "A modpack about farming and magic.",
+		"background": "https://github.com/userNullifiedProd/userNullifiedProd.github.io/blob/master/assets/mysticalRev.png?raw=true"
+  	},
+	"chaoticRev": {
+		"version": "WIP",
+		"name": "Chaotic Revolution",
+		"descriptionCZ": "Jediný limit je vaše fantazie. Je tu vše od technologie do magie.",
+		"descriptionEN": "The only limit is your imagination. There's everything from technology to magic here.",
+		"background": "https://github.com/userNullifiedProd/userNullifiedProd.github.io/blob/master/assets/chaoticRev.png?raw=true"
+  	}
 }
