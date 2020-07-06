@@ -120,7 +120,7 @@ function changeLang() {
 
 		document.getElementById('saviorText').textContent = "Ano, 'O' ne '0'. Hostuje naše servery, a tuto stránku! Také pomohl s tvořením modpacků.";
 
-		document.getElementById('spartaText').textContent = "Aw man. Originalní tvůrce našich modpacků! Vybírá módy, a celkové zaměření modpacku";
+		document.getElementById('spartaText').textContent = "Aw man. Originalní tvůrce našich modpacků! Vybírá módy, a celkové zaměření modpacku.";
 
 		document.getElementById('connectText').textContent = "Spojte se s námi" 
 
