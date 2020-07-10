@@ -1,17 +1,20 @@
 {
   	"modpack1": {
 		"released": false,
-		"version": "0",
+		"version": "0.000",
+		"serverIP": "",
 		"download": ""
   	},
 	"modpack2": {
 		"released": true,
-		"version": "0.1",
+		"version": "0.100",
+		"serverIP": "",
 		"download": "https://onedrive.live.com/download?cid=B478D286659DCBA3&resid=B478D286659DCBA3%211461&authkey=AIQxe4ezvEOgAEc"
   	},
 	"modpack3": {
 		"released": false,
-		"version": "0",
+		"version": "0.000",
+		"serverIP": "",
 		"download": ""
   	}
 }
