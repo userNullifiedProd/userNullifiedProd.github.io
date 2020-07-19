@@ -3,18 +3,27 @@
 		"released": false,
 		"version": "0.0000",
 		"serverIP": "play.mysticalRevolution.eu",
-		"download": ""
+		"download": "",
+		"releasedOn": "",
+		"testedRAM": "4GB",
+		"recommendedRAM": "8GB"
   	},
 	"modpack2": {
 		"released": true,
 		"version": "0.1000",
 		"serverIP": "play.spaceRevolution.eu",
-		"download": "https://onedrive.live.com/download?cid=B478D286659DCBA3&resid=B478D286659DCBA3%211461&authkey=AIQxe4ezvEOgAEc"
+		"download": "https://onedrive.live.com/download?cid=B478D286659DCBA3&resid=B478D286659DCBA3%211461&authkey=AIQxe4ezvEOgAEc",
+		"releasedOn": "",
+		"testedRAM": "4GB",
+		"recommendedRAM": "8GB"
   	},
 	"modpack3": {
 		"released": false,
 		"version": "0.0000",
 		"serverIP": "play.chaoticRevolution.eu",
-		"download": ""
+		"download": "",
+		"releasedOn": "",
+		"testedRAM": "4GB",
+		"recommendedRAM": "8GB"
   	}
 }
