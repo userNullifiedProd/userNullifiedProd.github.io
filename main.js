@@ -166,7 +166,7 @@ function changeLang() {
 
 		document.getElementById('team').textContent = "Meet the Team";
 
-		document.getElementById('userText').textContent = "Yes, that is a face mask. He made this website, and some of the code for the modpacks.";
+		document.getElementById('userText').textContent = "Guess the colors were not found. He made this website, and most of the code for the modpacks.";
 
 		document.getElementById('saviorText').textContent = "Yes, an 'O' not '0'. He hosts the servers, and this website! Also helped in making the modpacks.";
 
