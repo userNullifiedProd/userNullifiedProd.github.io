@@ -116,7 +116,7 @@ function changeLang() {
 
 		document.getElementById('team').textContent = "Poznejte náš Tým";
 
-		document.getElementById('userText').textContent = "Ano, to je respirátor. Vytvořil tuto stránku, a nějaký kód pro modpacky.";
+		document.getElementById('userText').textContent = "Barvy se asi nenašly. Vytvořil tuto stránku, a nějaký kód pro modpacky.";
 
 		document.getElementById('saviorText').textContent = "Ano, 'O' ne '0'. Hostuje naše servery, a tuto stránku! Také pomohl s tvořením modpacků.";
 
