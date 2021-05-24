@@ -1199,10 +1199,6 @@ button {
 	fill: #3ba55c
 }
 
-#app-mount .container-3auIfb[style*=rgb] {
-	background-color: var(--mainColor) !important
-}
-
 #app-mount .container-3auIfb[style*="rgb(114,118,125)"] {
 	background-color: var(--backgroundColor01) !important;
 	box-shadow: inset 0 0 0 100px rgba(255, 255, 255, 0.05)
