@@ -16,6 +16,10 @@ button {
 	animation-duration: 1s !important;
 }
 
+.container-3auIfb:checked[style*=rgb] {
+	background-color: var(--mainColor) !important
+}
+
 #app-mount .keyboardShortcutsModal-3piNz7,
 #app-mount .modalTitle-37O4n6,
 #app-mount .bg-h5JY_x,
@@ -1197,10 +1201,6 @@ button {
 
 #app-mount .radioBar-bMNUI-[style*="#3ba55c"] svg circle {
 	fill: #3ba55c
-}
-
-#app-mount .container-3auIfb:checked[style*=rgb] {
-	background-color: var(--mainColor) !important
 }
 
 #app-mount .container-3auIfb[style*="rgb(114,118,125)"] {
