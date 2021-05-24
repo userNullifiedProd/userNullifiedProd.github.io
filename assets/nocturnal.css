@@ -1203,7 +1203,7 @@ button {
 	background-color: #0575e6 !important;
 }
 
-#app-mount .container-3auIfb[style*="rgb(114,118,125)"] {
+#app-mount .container-3auIfb[style*="rgb(114, 118, 125);"] {
 	background-color: #24282F !important;
 	box-shadow: inset 0 0 0 100px rgba(255, 255, 255, 0.05)
 }
