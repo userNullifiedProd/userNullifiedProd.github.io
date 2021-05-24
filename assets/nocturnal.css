@@ -312,11 +312,11 @@ button {
 	width: 8px;
 	border-radius: 4px;
 	left: 4px;
-	-webkit-transition: box-shadow 0.2s ease;
-	-ms-transition: box-shadow 0.2s ease;
-	-o-transition: box-shadow 0.2s ease;
-	-moz-transition: box-shadow 0.2s ease;
-	transition: box-shadow 0.2s ease;
+	-webkit-transition: box-shadow 0.1s ease;
+	-ms-transition: box-shadow 0.1s ease;
+	-o-transition: box-shadow 0.1s ease;
+	-moz-transition: box-shadow 0.1s ease;
+	transition: box-shadow 0.1s ease;
 	background-color: #ffffff00;
 	z-index: 10;
 	position: absolute
@@ -332,7 +332,7 @@ button {
 	background-color: var(--mainColor);
 	border-radius: 100%;
 	z-index: -2;
-	animation: pulse 0.1s infinite;
+	animation: pulse 2s infinite;
 	will-change: transform
 }
 
