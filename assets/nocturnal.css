@@ -16,14 +16,6 @@ button {
 	animation-duration: 1s !important;
 }
 
-.container-3auIfb {
-	background-color: #181c25 !important;
-}
-
-.container-3auIfb:checked {
-	background-color: #0575e6 !important;
-}
-
 #app-mount .keyboardShortcutsModal-3piNz7,
 #app-mount .modalTitle-37O4n6,
 #app-mount .bg-h5JY_x,
@@ -1207,7 +1199,7 @@ button {
 	fill: #3ba55c
 }
 
-#app-mount .container-3auIfb[style*=rgb] {
+#app-mount .container-3auIfb:checked[style*=rgb] {
 	background-color: var(--mainColor) !important
 }
 
