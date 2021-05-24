@@ -332,7 +332,8 @@ button {
 	background-color: var(--mainColor);
 	border-radius: 100%;
 	z-index: -2;
-	animation: pulse 1s infinite;
+	animation: pulse infinite;
+	animation-duration: 1s;
 	will-change: transform
 }
 
