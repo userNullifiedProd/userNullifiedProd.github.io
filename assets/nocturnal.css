@@ -1199,7 +1199,7 @@ button {
 	fill: #3ba55c
 }
 
-#app-mount .container-3auIfb:checked[style*="rgb(59, 165, 92)"] {
+#app-mount .container-3auIfb[style*="rgb(59, 165, 92)"] {
 	background-color: var(--mainColor) !important
 }
 
