@@ -12,6 +12,9 @@ button {
     	border-radius: 16px !important;
 }
 
+.unread-2lAfLh:after {
+	animation-duration: 1s !important;
+}
 #app-mount .keyboardShortcutsModal-3piNz7,
 #app-mount .modalTitle-37O4n6,
 #app-mount .bg-h5JY_x,
@@ -312,11 +315,11 @@ button {
 	width: 8px;
 	border-radius: 4px;
 	left: 4px;
-	-webkit-transition: box-shadow 0.1s ease;
-	-ms-transition: box-shadow 0.1s ease;
-	-o-transition: box-shadow 0.1s ease;
-	-moz-transition: box-shadow 0.1s ease;
-	transition: box-shadow 0.1s ease;
+	-webkit-transition: box-shadow 0.2s ease;
+	-ms-transition: box-shadow 0.2s ease;
+	-o-transition: box-shadow 0.2s ease;
+	-moz-transition: box-shadow 0.2s ease;
+	transition: box-shadow 0.2s ease;
 	background-color: #ffffff00;
 	z-index: 10;
 	position: absolute
@@ -333,7 +336,6 @@ button {
 	border-radius: 100%;
 	z-index: -2;
 	animation: pulse infinite;
-	animation-duration: 1s;
 	will-change: transform
 }
 
