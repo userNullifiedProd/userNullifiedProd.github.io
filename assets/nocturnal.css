@@ -1,4 +1,9 @@
 @import url("https://codedotspectra.github.io/themes/core/settings-icons.css");
+
+button {
+	border-radius: 16px;
+}
+
 #app-mount .keyboardShortcutsModal-3piNz7,
 #app-mount .modalTitle-37O4n6,
 #app-mount .bg-h5JY_x,
