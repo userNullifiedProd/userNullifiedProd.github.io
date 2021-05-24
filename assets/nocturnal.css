@@ -16,7 +16,7 @@ button {
 	animation-duration: 1s !important;
 }
 
-.container-3auIfb:checked[style*=rgb] {
+.container-3auIfb:checked {
 	background-color: var(--mainColor) !important
 }
 
