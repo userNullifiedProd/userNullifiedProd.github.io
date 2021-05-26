@@ -1706,3 +1706,7 @@ button {
 .channel-2QD9_O[href*="/discovery"] {
 	display: none !important;
 }
+
+div[id*="user-context-call"] {
+	display: none !important;
+}
