@@ -1529,13 +1529,13 @@
 }
 
 #app-mount .footer-1fjuF6 input:hover {
-	border-color: var(--backgroundColor02)
+	border-color: var(--backgroundColor02);
 }
 
 #app-mount .footer-1fjuF6 input:focus,
 #app-mount .footer-1fjuF6 input:focus:hover {
 	background-color: var(--backgroundColor02) !important;
-	border-color: var(--mainColor)
+	border-color: var(--mainColor);
 }
 
 #app-mount .note-QfFU8y,
@@ -1545,7 +1545,7 @@
 #app-mount .note-QfFU8y textarea,
 #app-mount .note-3HfJZ5 textarea {
 	background-color: #181C24 !important;
-	border: 1px solid rgba(0, 0, 0, 0.3)
+	border: 1px solid rgba(0, 0, 0, 0.3);
 }
 
 #app-mount .note-QfFU8y textarea:hover,
