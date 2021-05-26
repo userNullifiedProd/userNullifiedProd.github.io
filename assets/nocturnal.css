@@ -1543,7 +1543,6 @@
 	margin: 0 !important
 }
 
-#app-mount .note-QfFU8y textarea,
 #app-mount .note-3HfJZ5 textarea {
 	background-color: rgba(0, 0, 0, 0.3) !important;
 	border: 1px solid rgba(0, 0, 0, 0.3)
@@ -1706,8 +1705,4 @@ button {
 
 .channel-2QD9_O[href*="/discovery"] {
 	display: none !important;
-}
-
-.note-QfFU8y {
-	background-color: #181C24 !important;
 }
