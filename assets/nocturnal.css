@@ -21,7 +21,11 @@ button {
 }
 
 .channel-2QD9_O[href*="/discovery"] {
-	display: none;
+	display: none !important;
+}
+
+.textarea-2r0oV8 {
+	background-color: var(--backgroundColor01) !important;
 }
 #app-mount .keyboardShortcutsModal-3piNz7,
 #app-mount .modalTitle-37O4n6,
