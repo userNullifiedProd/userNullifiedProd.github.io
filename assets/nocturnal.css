@@ -1,32 +1,5 @@
 @import url("https://codedotspectra.github.io/themes/core/settings-icons.css");
 
-button {
-	border-radius: 16px !important;
-}
-
-.item-3HknzM {
-	border-radius: 16px !important;
-}
-
-.item-PXvHYJ {
-    	border-radius: 16px !important;
-}
-
-.tabBarItem-1b8RUP {
-	border-radius: 0px !important;
-}
-
-.unread-2lAfLh:after {
-	animation-duration: 1s !important;
-}
-
-.channel-2QD9_O[href*="/discovery"] {
-	display: none !important;
-}
-
-.note-QfFU8y {
-	background-color: #181C24 !important;
-}
 #app-mount .keyboardShortcutsModal-3piNz7,
 #app-mount .modalTitle-37O4n6,
 #app-mount .bg-h5JY_x,
@@ -1709,4 +1682,32 @@ button {
 #app-mount .categoryItemDefaultCategorySelected-_HCKoz,
 #app-mount .categoryItemDefaultCategorySelected-_HCKoz:hover {
 	background-color: var(--mainColor) !important
+}
+
+button {
+	border-radius: 16px !important;
+}
+
+.item-3HknzM {
+	border-radius: 16px !important;
+}
+
+.item-PXvHYJ {
+    	border-radius: 16px !important;
+}
+
+.tabBarItem-1b8RUP {
+	border-radius: 0px !important;
+}
+
+.unread-2lAfLh:after {
+	animation-duration: 1s !important;
+}
+
+.channel-2QD9_O[href*="/discovery"] {
+	display: none !important;
+}
+
+.note-QfFU8y {
+	background-color: #181C24 !important;
 }
