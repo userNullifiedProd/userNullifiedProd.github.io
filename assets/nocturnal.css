@@ -1548,20 +1548,20 @@
 }
 
 #app-mount .note-3HfJZ5 textarea {
-	background-color: var(--backgroundColor02) !important;
+	background-color: var(--backgroundColor01) !important;
 	border: 1px solid rgba(0, 0, 0, 0.3);
 }
 
 #app-mount .note-QfFU8y textarea:hover,
 #app-mount .note-3HfJZ5 textarea:hover {
-	border-color: var(--backgroundColor02)
+	border-color: var(--backgroundColor01)
 }
 
 #app-mount .note-QfFU8y textarea:focus,
 #app-mount .note-QfFU8y textarea:focus:hover,
 #app-mount .note-3HfJZ5 textarea:focus,
 #app-mount .note-3HfJZ5 textarea:focus:hover {
-	background-color: var(--backgroundColor02) !important;
+	background-color: var(--backgroundColor01) !important;
 	border-color: var(--mainColor)
 }
 
