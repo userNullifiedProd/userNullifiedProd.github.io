@@ -1714,3 +1714,7 @@ div[id*="user-context-call"] {
 .badge-1Skb69 {
 	background-color: #4F545C !important;
 }
+
+.activityUserPopout-2yItg2 {
+	background-color: var(--backgroundColor01) !important;
+}
