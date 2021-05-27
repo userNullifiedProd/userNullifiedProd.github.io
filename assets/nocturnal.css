@@ -1723,3 +1723,7 @@ div[id*="user-context-call"] {
 .headerTop-2y3V6H {
 	background-color: var(--backgroundColor01) !important;
 }
+
+.activityUserPopout-2yItg2 {
+	padding: 16px !important;
+}
