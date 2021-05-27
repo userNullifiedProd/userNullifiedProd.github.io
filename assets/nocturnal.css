@@ -1542,9 +1542,13 @@
 #app-mount .note-3HfJZ5 {
 	margin: 0 !important
 }
-#app-mount .note-QfFU8y textarea,
-#app-mount .note-3HfJZ5 textarea {
+#app-mount .note-QfFU8y textarea,{
 	background-color: #181C24 !important;
+	border: 1px solid rgba(0, 0, 0, 0.3);
+}
+
+#app-mount .note-3HfJZ5 textarea {
+	background-color: var(--backgroundColor02) !important;
 	border: 1px solid rgba(0, 0, 0, 0.3);
 }
 
