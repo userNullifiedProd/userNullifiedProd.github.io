@@ -1542,7 +1542,7 @@
 #app-mount .note-3HfJZ5 {
 	margin: 0 !important
 }
-#app-mount .note-QfFU8y textarea,{
+#app-mount .note-QfFU8y textarea {
 	background-color: #181C24 !important;
 	border: 1px solid rgba(0, 0, 0, 0.3);
 }
@@ -1721,7 +1721,7 @@ div[id*="user-context-call"] {
 
 .activityUserPopout-2yItg2, 
 .headerTop-2y3V6H {
-	background-color: var(--backgroundColor01) !important;
+	background-color: var(--backgroundColor02) !important;
 }
 
 .activityUserPopout-2yItg2 {
