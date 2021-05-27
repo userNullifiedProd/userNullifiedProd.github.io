@@ -1719,3 +1719,8 @@ div[id*="user-context-call"] {
 .headerTop-2y3V6H {
 	background-color: var(--backgroundColor01) !important;
 }
+
+.body-3iLsc4, 
+.footer-1fjuF6 {
+	background.color: var(--backgroundColor02) !important;
+}
