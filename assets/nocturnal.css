@@ -1524,7 +1524,7 @@
 }
 
 #app-mount .footer-1fjuF6 input {
-	background-color: rgba(0, 0, 0, 0.3) !important;
+	background-color: var(--backgroundColor02) !important;
 	border: 1px solid rgba(0, 0, 0, 0.3)
 }
 
