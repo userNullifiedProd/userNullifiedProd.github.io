@@ -213,7 +213,8 @@
     background-color: var(--backgroundColor01);
 }
 
-.control-2BBjec > .container-3auIfb > .slider-TkfMQL[style*="left: 12px;"] > svg {
+.container-3auIfb > .slider-TkfMQL > svg,
+.bd-switch-body > .bd-switch-slider > svg {
     display: none;
 }
 
