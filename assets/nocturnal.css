@@ -86,8 +86,10 @@
 .listenAlongIcon-2TkOLH {
 	color: var(--mainColor) !important;
 }
-
-/**/
+#app-mount div.flex-1xMQg5.flex-1O1GKY.horizontal-1ae9ci.horizontal-2EEEnY.flex-1O1GKY.directionRow-3v3tfG.justifyStart-2NDFzi.alignStretch-DpGPf3.noWrap-3jynv6.buttonsWrapper-2spIeK.horizontal-3fI3M- > .disabledButtonWrapper-3wH6-b > button:disabled,
+#app-mount div.flex-1xMQg5.flex-1O1GKY.horizontal-1ae9ci.horizontal-2EEEnY.flex-1O1GKY.directionRow-3v3tfG.justifyStart-2NDFzi.alignStretch-DpGPf3.noWrap-3jynv6.buttonsWrapper-2spIeK.horizontal-3fI3M- > button {
+    background-color: white !important;
+}
 
 .customStatus-oN4ZZY,
 .aboutMeTitle-1IYtPE,
