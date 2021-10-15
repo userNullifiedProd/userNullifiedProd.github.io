@@ -41,7 +41,9 @@
 #app-mount .circleIconButton-1QV--U,
 #app-mount .scrollableContainer-2NUZem,
 #app-mount .searchBar-3dMhjb,
-.userPopout-xaxa6l {
+.userPopout-xaxa6l,
+.footer-3UKYOU,
+.bodyInnerWrapper-26fQXj {
 	background: var(--backgroundColor01) !important
 }
 
