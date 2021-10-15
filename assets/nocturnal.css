@@ -87,12 +87,6 @@
 	color: var(--mainColor) !important;
 }
 
-.contents-18-Yxp {
-	background: linear-gradient(135deg, rgba(5,117,230,1) 0%, rgba(170,85,255,1) 100%);
-	-webkit-text-fill-color: transparent;
-	-webkit-background-clip: text;
-}
-
 #app-mount div.flex-1xMQg5.flex-1O1GKY.horizontal-1ae9ci.horizontal-2EEEnY.flex-1O1GKY.directionRow-3v3tfG.justifyStart-2NDFzi.alignStretch-DpGPf3.noWrap-3jynv6.buttonsWrapper-2spIeK.horizontal-3fI3M- > button {
     background-color: white !important;
 }
