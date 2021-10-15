@@ -65,7 +65,9 @@
 #app-mount .topSection-y3p-_D,
 #app-mount .topSection-y3p-_D > header,
 #app-mount .topSection-y3p-_D > .tabBarContainer-37hZsr,
-#app-mount .body-r6_QPy {
+#app-mount .body-r6_QPy,
+#app-mount .topSection-y3p-_D > header > .header-4zuFdR > .headerTop-547GTz > .relationshipButtons-pUQVkf > button > .contents-18-Yxp,
+#app-mount .body-r6_QPy > .listScroller-3GmIYj > .activityProfile-2bJRaP > .bodyNormal-2D39hT > .flex-1xMQg5 > button > .contents-18-Yxp {
     background: rgb(5,117,230);
     background: linear-gradient(90deg, rgba(5,117,230,1) 0%, rgba(170,85,255,1) 100%);
 }
@@ -97,11 +99,16 @@
 }
 
 .spotifyButtonLogo-3uT57D,
-.listenAlongIcon-2TkOLH {
+.listenAlongIcon-2TkOLH,
+#app-mount .body-r6_QPy > .listScroller-3GmIYj > .activityProfile-2bJRaP > .bodyNormal-2D39hT > .flex-1xMQg5 > button > .contents-18-Yxp > .flex-1xMQg5 > .spotifyButtonLogo-3uT57D {
 	color: var(--mainColor) !important;
 }
 #app-mount div.flex-1xMQg5.flex-1O1GKY.horizontal-1ae9ci.horizontal-2EEEnY.flex-1O1GKY.directionRow-3v3tfG.justifyStart-2NDFzi.alignStretch-DpGPf3.noWrap-3jynv6.buttonsWrapper-2spIeK.horizontal-3fI3M- > .disabledButtonWrapper-3wH6-b > button:disabled,
-#app-mount div.flex-1xMQg5.flex-1O1GKY.horizontal-1ae9ci.horizontal-2EEEnY.flex-1O1GKY.directionRow-3v3tfG.justifyStart-2NDFzi.alignStretch-DpGPf3.noWrap-3jynv6.buttonsWrapper-2spIeK.horizontal-3fI3M- > button {
+#app-mount div.flex-1xMQg5.flex-1O1GKY.horizontal-1ae9ci.horizontal-2EEEnY.flex-1O1GKY.directionRow-3v3tfG.justifyStart-2NDFzi.alignStretch-DpGPf3.noWrap-3jynv6.buttonsWrapper-2spIeK.horizontal-3fI3M- > button,
+#app-mount .topSection-y3p-_D > header > .header-4zuFdR > .headerTop-547GTz > .relationshipButtons-pUQVkf > button,
+#app-mount .topSection-y3p-_D > header > .header-4zuFdR > .headerTop-547GTz > .relationshipButtons-pUQVkf > button:disabled,
+#app-mount .body-r6_QPy > .listScroller-3GmIYj > .activityProfile-2bJRaP > .bodyNormal-2D39hT > .flex-1xMQg5 > button,
+#app-mount .body-r6_QPy > .listScroller-3GmIYj > .activityProfile-2bJRaP > .bodyNormal-2D39hT > .flex-1xMQg5 > button:disabled {
     background-color: white !important;
 }
 
@@ -121,7 +128,10 @@
 #app-mount .body-r6_QPy > .infoScroller-1Qu30O > .userInfoSection-q_35fn > .userBio-3tlrzS,
 #app-mount .body-r6_QPy > .infoScroller-1Qu30O > .userInfoSection-q_35fn > .note-367eZJ > textarea::placeholder,
 #app-mount .body-r6_QPy > .infoScroller-1Qu30O > .userInfoSection-q_35fn > .connectedAccounts-QlRa4m > .connectedAccount-2Jb-Z0 > .connectedAccountNameInner-2q3MVf > .connectedAccountName-E1KzaT,
-#app-mount .body-r6_QPy > .infoScroller-1Qu30O > .userInfoSection-q_35fn > .connectedAccounts-QlRa4m > .connectedAccount-2Jb-Z0 > a > .connectedAccountOpenIcon-E5wGF4 {
+#app-mount .body-r6_QPy > .infoScroller-1Qu30O > .userInfoSection-q_35fn > .connectedAccounts-QlRa4m > .connectedAccount-2Jb-Z0 > a > .connectedAccountOpenIcon-E5wGF4,
+#app-mount .body-r6_QPy > .listScroller-3GmIYj > .activityProfile-2bJRaP > .headerContainer-1_MTZL > .headerText-1HLrL7 > .overflow-WK9Ogt,
+#app-mount .body-r6_QPy > .listScroller-3GmIYj > .activityProfile-2bJRaP > .bodyNormal-2D39hT > .content-3JfFJh > h3 > a,
+#app-mount .body-r6_QPy > .listScroller-3GmIYj > .activityProfile-2bJRaP > .bodyNormal-2D39hT > .content-3JfFJh > .textRow-19NEd_ {
     color: white !important;
 }
 
@@ -134,12 +144,24 @@
 .detailsWrap-22pigg.textRow-19NEd_ > span > a,
 .state-Tt0LO3.ellipsis-1XUmPN.textRow-19NEd_ > span > a,
 .discrimBase-24vY8o,
-#app-mount .nameTag-ECvD8P > .discriminator-1swucG {
+#app-mount .nameTag-ECvD8P > .discriminator-1swucG,
+#app-mount .body-r6_QPy > .listScroller-3GmIYj > .listRow-1iDGel > .listRowContent-i8Bizk > .guildNick-kAvTju,
+#app-mount .body-r6_QPy > .listScroller-3GmIYj > .listRow-1iDGel > .nameTag-m8r81H > .listDiscriminator-2AP_Kz {
 	color: #F1F1F1 !important;
 }
 
 #app-mount .topSection-y3p-_D > .tabBarContainer-37hZsr > .tabBar-3nvOPa > .tabBarItem-3dfX8P {
     color: #f0efef !important;
+}
+
+#app-mount .body-r6_QPy > .infoScroller-1Qu30O > .userInfoSection-q_35fn > .connectedAccounts-QlRa4m > .connectedAccount-2Jb-Z0 {
+    backdrop-filter: brightness(0.8);
+}
+
+#app-mount .body-r6_QPy > .listScroller-3GmIYj > .listRow-1iDGel {
+    backdrop-filter: brightness(0.8);
+    margin-top: 4px;
+    margin-right: 8px;
 }
 
 #app-mount {}
