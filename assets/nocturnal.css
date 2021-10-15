@@ -52,7 +52,6 @@
 	background: var(--backgroundColor01) !important
 }
 
-.activityUserPopout-2yItg2.activity-2INFPu.newPopoutActivityStyles,
 .footer-3UKYOU,
 .bodyInnerWrapper-26fQXj {
 	background: transparent !important;
@@ -66,6 +65,17 @@
 .userPopout-xaxa6l {
 	background: rgb(5,117,230);
 	background: linear-gradient(135deg, rgba(5,117,230,1) 0%, rgba(170,85,255,1) 100%);
+}
+
+.activityUserPopout-2yItg2.activity-2INFPu.newPopoutActivityStyles {
+	backdrop-filter: brightness(0.9);
+	border-radius: 8px;
+	margin-bottom: 16px;
+}
+
+.spotifyIcon-2J9kSv {
+	top: 6px;
+	right: 6px;
 }
 
 #app-mount {}
