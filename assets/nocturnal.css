@@ -201,6 +201,12 @@
     background-color: #13151d;
 }
 
+.layer-3QrUeG > div > .standardSidebarView-3F1I7i > .contentRegion-3nDuYy > div > div > div > .content-2HgFLu > div[role=list] > .flex-1xMQg5,
+.layer-3QrUeG > div > .standardSidebarView-3F1I7i > .contentRegion-3nDuYy > div > div > div > .content-2HgFLu > div[role=list] > .flex-1xMQg5 > .header-1oWRg0 {
+    border-color: transparent !important;
+    background-color: var(--backgroundColor01);
+}
+
 #app-mount {}
 
 #app-mount .guildSeparator-33mFX6,
