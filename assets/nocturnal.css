@@ -29,7 +29,8 @@
 #app-mount .wrapper-3NnKdC,
 #app-mount .layer-3QrUeG,
 #app-mount .accountProfileCard-1XCH88,
-#app-mount .accountProfileCard-1XCH88 > .background-1QDuV2 {
+#app-mount .accountProfileCard-1XCH88 > .background-1QDuV2,
+.layer-2KE1M9 > .focusLock-Ns3yie > .root-1gCeng > .flex-1xMQg5 {
 	background-color: var(--backgroundColor02) !important
 }
 
@@ -69,7 +70,8 @@
 #app-mount .topSection-y3p-_D > .tabBarContainer-37hZsr,
 #app-mount .body-r6_QPy,
 #app-mount .topSection-y3p-_D > header > .header-4zuFdR > .headerTop-547GTz > .relationshipButtons-pUQVkf > button > .contents-18-Yxp,
-#app-mount .body-r6_QPy > .listScroller-3GmIYj > .activityProfile-2bJRaP > .bodyNormal-2D39hT > .flex-1xMQg5 > button > .contents-18-Yxp {
+#app-mount .body-r6_QPy > .listScroller-3GmIYj > .activityProfile-2bJRaP > .bodyNormal-2D39hT > .flex-1xMQg5 > button > .contents-18-Yxp,
+.layer-2KE1M9 > .focusLock-Ns3yie > .root-1gCeng > .content-1LAB8Z {
     background: rgb(5,117,230);
     background: linear-gradient(90deg, rgba(5,117,230,1) 0%, rgba(170,85,255,1) 100%);
 }
@@ -138,7 +140,8 @@
 #app-mount .body-r6_QPy > .infoScroller-1Qu30O > .userInfoSection-q_35fn > .connectedAccounts-QlRa4m > .connectedAccount-2Jb-Z0 > a > .connectedAccountOpenIcon-E5wGF4,
 #app-mount .body-r6_QPy > .listScroller-3GmIYj > .activityProfile-2bJRaP > .headerContainer-1_MTZL > .headerText-1HLrL7 > .overflow-WK9Ogt,
 #app-mount .body-r6_QPy > .listScroller-3GmIYj > .activityProfile-2bJRaP > .bodyNormal-2D39hT > .content-3JfFJh > h3 > a,
-#app-mount .body-r6_QPy > .listScroller-3GmIYj > .activityProfile-2bJRaP > .bodyNormal-2D39hT > .content-3JfFJh > .textRow-19NEd_ {
+#app-mount .body-r6_QPy > .listScroller-3GmIYj > .activityProfile-2bJRaP > .bodyNormal-2D39hT > .content-3JfFJh > .textRow-19NEd_,
+.layer-2KE1M9 > .focusLock-Ns3yie > .root-1gCeng > .content-1LAB8Z > .card-2X8BSG > .container-28YWfK > .descriptionText-1EMft3 {
     color: white !important;
 }
 
@@ -212,6 +215,12 @@
 
 .control-2BBjec > .container-3auIfb > .slider-TkfMQL[style*="left: 12px;"] > svg {
     display: none;
+}
+
+.layer-2KE1M9 > .focusLock-Ns3yie > .root-1gCeng > .content-1LAB8Z > .card-2X8BSG {
+	border: none;
+	background: transparent;
+	backdrop-filter: brightness(0.8);
 }
 
 #app-mount {}
