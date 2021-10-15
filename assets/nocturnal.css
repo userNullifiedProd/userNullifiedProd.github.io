@@ -40,8 +40,7 @@
 #app-mount .channelTextArea-rNsIhG,
 #app-mount .circleIconButton-1QV--U,
 #app-mount .scrollableContainer-2NUZem,
-#app-mount .searchBar-3dMhjb,
-.bodyInnerWrapper-26fQXj {
+#app-mount .searchBar-3dMhjb {
 	background: var(--backgroundColor01) !important
 }
 
@@ -54,9 +53,11 @@
 }
 
 .activityUserPopout-2yItg2.activity-2INFPu.newPopoutActivityStyles,
-.footer-3UKYOU{
+.footer-3UKYOU,
+.bodyInnerWrapper-26fQXj {
 	background: transparent !important;
 }
+
 .inputDefault-_djjkz.input-cIJ7To.input-2_SIlA,
 .inputDefault-_djjkz.input-cIJ7To.input-2_SIlA::placeholder {
 	color: white !important;
