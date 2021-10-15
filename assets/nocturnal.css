@@ -680,7 +680,7 @@
 }
 
 #app-mount .input-cIJ7To {
-	background-color: var(--backgroundColor01) !important;
+	background-color: #252c39 !important;
 	color: #fff !important;
 	border-color: transparent !important
 }
@@ -1721,11 +1721,6 @@ div[id*="user-context-call"] {
 
 .badge-1Skb69 {
 	background-color: #4F545C !important;
-}
-
-.activityUserPopout-2yItg2, 
-.headerTop-2y3V6H {
-	background-color: var(--backgroundColor02) !important;
 }
 
 .activityUserPopout-2yItg2 {
