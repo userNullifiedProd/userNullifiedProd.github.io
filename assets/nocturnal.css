@@ -97,6 +97,20 @@
     background-color: white !important;
 }
 
+.customStatus-oN4ZZY,
+.aboutMeTitle-1IYtPE,
+.aboutMeBody-3GuvKk,
+.activityUserPopout-2yItg2 > .headerContainer-1_MTZL > .headerTextNormal-2mGWX3, 
+.activityUserPopout-2yItg2 > .bodyNormal-2D39hT > .content-3JfFJh,
+.activityUserPopout-2yItg2 > .bodyNormal-2D39hT > .content-3JfFJh > .nameNormal-2lqVQK, 
+.bodyInnerWrapper-26fQXj > h3 {
+    color: white !important;
+}
+
+.discrimBase-24vY8o {
+    color: #F1F1F1 !important;
+}
+
 #app-mount {}
 
 #app-mount .guildSeparator-33mFX6,
