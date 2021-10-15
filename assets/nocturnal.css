@@ -105,6 +105,12 @@
     color: #F1F1F1 !important;
 }
 
+.button-2IFFQ4 > .contents-18-Yxp {
+	background: linear-gradient(135deg, rgba(5,117,230,1) 0%, rgba(170,85,255,1) 100%);
+	-webkit-text-fill-color: transparent;
+	-webkit-background-clip: text;
+}
+
 #app-mount {}
 
 #app-mount .guildSeparator-33mFX6,
