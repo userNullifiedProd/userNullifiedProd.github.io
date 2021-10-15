@@ -80,7 +80,8 @@
 
 #app-mount .bodyInnerWrapper-26fQXj > div.note-1oo11U > textarea,
 #app-mount .inputDefault-_djjkz.input-cIJ7To.input-2_SIlA,
-#app-mount .body-r6_QPy > .infoScroller-1Qu30O > .userInfoSection-q_35fn > .note-367eZJ > textarea {
+#app-mount .body-r6_QPy > .infoScroller-1Qu30O > .userInfoSection-q_35fn > .note-367eZJ > textarea,
+#app-mount .layer-v9HyYc > div > .userPopout-xaxa6l > .body-3HBlXn > .bodyInnerWrapper-26fQXj > .rolesList-1geHY1 > .role-2irmRk {
 	background-color: transparent !important;
 	backdrop-filter: brightness(0.8);
 }
