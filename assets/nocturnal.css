@@ -135,7 +135,9 @@
     color: white !important;
 }
 
-.button-2IFFQ4 > .contents-18-Yxp {
+.button-2IFFQ4 > .contents-18-Yxp,
+#app-mount .topSection-y3p-_D > header > .header-4zuFdR > .headerTop-547GTz > .relationshipButtons-pUQVkf > button > .contents-18-Yxp,
+#app-mount .body-r6_QPy > .listScroller-3GmIYj > .activityProfile-2bJRaP > .bodyNormal-2D39hT > .flex-1xMQg5 > button > .contents-18-Yxp {
 	background: linear-gradient(135deg, rgba(5,117,230,1) 0%, rgba(170,85,255,1) 100%);
 	-webkit-text-fill-color: transparent;
 	-webkit-background-clip: text;
