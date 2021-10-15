@@ -81,7 +81,8 @@
 #app-mount .bodyInnerWrapper-26fQXj > div.note-1oo11U > textarea,
 #app-mount .inputDefault-_djjkz.input-cIJ7To.input-2_SIlA,
 #app-mount .body-r6_QPy > .infoScroller-1Qu30O > .userInfoSection-q_35fn > .note-367eZJ > textarea,
-#app-mount .layer-v9HyYc > div > .userPopout-xaxa6l > .body-3HBlXn > .bodyInnerWrapper-26fQXj > .rolesList-1geHY1 > .role-2irmRk {
+#app-mount .layer-v9HyYc > div > .userPopout-xaxa6l > .body-3HBlXn > .bodyInnerWrapper-26fQXj > .rolesList-1geHY1 > .role-2irmRk,
+#permissions-popout > ul > li {
 	background-color: transparent !important;
 	backdrop-filter: brightness(0.8);
 }
@@ -168,6 +169,17 @@
 
 .theme-dark .perksModal-fSYqOq {
 	background-color: var(--backgroundColor02);
+}
+
+#app-mount .layer-v9HyYc > div > .userPopout-xaxa6l > .body-3HBlXn > .bodyInnerWrapper-26fQXj > h3:nth-child(4) {
+    margin-top: 8px;
+}
+
+#permissions-popout > .member-perms-header > .member-perms-title {
+    font-weight: 700;
+    font-size: 13px;
+    margin-bottom: 8px;
+    text-transform: uppercase;
 }
 
 #app-mount {}
