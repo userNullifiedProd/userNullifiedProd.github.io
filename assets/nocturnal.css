@@ -74,8 +74,8 @@
 }
 
 .spotifyIcon-2J9kSv {
-	top: 6px;
-	right: 6px;
+	top: 6px !important;
+	right: 6px !important;
 }
 
 .bodyInnerWrapper-26fQXj > .flex-1xMQg5 > button {
@@ -93,7 +93,7 @@
 	-webkit-background-clip: text;
 }
 
-#popout_112 > div > div > div.body-3HBlXn.thin-1ybCId.scrollerBase-289Jih > div.bodyInnerWrapper-26fQXj > div.activityUserPopout-2yItg2.activity-2INFPu.newPopoutActivityStyles > div.flex-1xMQg5.flex-1O1GKY.horizontal-1ae9ci.horizontal-2EEEnY.flex-1O1GKY.directionRow-3v3tfG.justifyStart-2NDFzi.alignStretch-DpGPf3.noWrap-3jynv6.buttonsWrapper-2spIeK.horizontal-3fI3M- > button {
+#app-mount div.flex-1xMQg5.flex-1O1GKY.horizontal-1ae9ci.horizontal-2EEEnY.flex-1O1GKY.directionRow-3v3tfG.justifyStart-2NDFzi.alignStretch-DpGPf3.noWrap-3jynv6.buttonsWrapper-2spIeK.horizontal-3fI3M- > button {
     background-color: white !important;
 }
 
