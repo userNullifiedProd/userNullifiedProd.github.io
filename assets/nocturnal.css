@@ -166,6 +166,10 @@
     margin-right: 8px;
 }
 
+.theme-dark .perksModal-fSYqOq {
+	background-color: var(--backgroundColor02);
+}
+
 #app-mount {}
 
 #app-mount .guildSeparator-33mFX6,
