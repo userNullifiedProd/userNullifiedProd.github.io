@@ -108,7 +108,6 @@
 .listenAlongIcon-2TkOLH,
 #app-mount .body-r6_QPy > .listScroller-3GmIYj > .activityProfile-2bJRaP > .bodyNormal-2D39hT > .flex-1xMQg5 > button > .contents-18-Yxp > .flex-1xMQg5 > .spotifyButtonLogo-3uT57D,
 #app-mount .ctaBar-2UsjF2 > .actions-2fUYl0 > button > .giftActionContent-2dKrVJ > .giftIcon-ZxlWk5,
-.control-2BBjec > .container-3auIfb,
 #app-mount .homeIcon-FuNwkv {
 	color: var(--mainColor) !important;
 }
@@ -222,6 +221,10 @@
 	border: none;
 	background: transparent;
 	backdrop-filter: brightness(0.8);
+}
+
+.control-2BBjec > .container-3auIfb {
+	background-color: var(--mainColor) !important;
 }
 
 #app-mount {}
