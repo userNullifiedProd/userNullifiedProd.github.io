@@ -41,8 +41,6 @@
 #app-mount .circleIconButton-1QV--U,
 #app-mount .scrollableContainer-2NUZem,
 #app-mount .searchBar-3dMhjb,
-.userPopout-xaxa6l,
-.footer-3UKYOU,
 .bodyInnerWrapper-26fQXj {
 	background: var(--backgroundColor01) !important
 }
@@ -53,6 +51,15 @@
 
 #app-mount .content-1o0f9g {
 	background: var(--backgroundColor01) !important
+}
+
+.activityUserPopout-2yItg2.activity-2INFPu.newPopoutActivityStyles,
+.footer-3UKYOU{
+	background: transparent !important;
+}
+.inputDefault-_djjkz.input-cIJ7To.input-2_SIlA,
+.inputDefault-_djjkz.input-cIJ7To.input-2_SIlA::placeholder {
+	color: white !important;
 }
 
 #app-mount {}
