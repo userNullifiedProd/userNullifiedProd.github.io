@@ -27,7 +27,9 @@
 #app-mount .scroller-1Bvpku,
 #app-mount .scroller-2XE8rp,
 #app-mount .wrapper-3NnKdC,
-#app-mount .layer-3QrUeG {
+#app-mount .layer-3QrUeG,
+#app-mount .accountProfileCard-1XCH88,
+#app-mount .accountProfileCard-1XCH88 > .background-1QDuV2 {
 	background-color: var(--backgroundColor02) !important
 }
 
@@ -190,12 +192,12 @@
 .theme-dark .perksModal-fSYqOq > .perksModalContentWrapper-2HU6uL > .carouselContainer-2-vIZS > .carousel-6MSnEI > .carousel-18mXWH > .item-287JPa > .tierWrapper-W9ajqp > .carouselItem-g4c5Xp > div > .tierBody-16Chc9,
 #app-mount .perks-3OsGy8 > li,
 #app-mount .ctaBar-2UsjF2,
-.layer-3QrUeG > div > .standardSidebarView-3F1I7i > .contentRegion-3nDuYy > .contentTransitionWrap-3hqOEW > .contentRegionScroller-26nc1e >main > div > .children-rWhLdy > div > .content-EpTwk1 > .tiers-3eUU7I > .tier-2pEkRl > .tierBody-3aUxuc {
+.layer-3QrUeG > div > .standardSidebarView-3F1I7i > .contentRegion-3nDuYy > .contentTransitionWrap-3hqOEW > .contentRegionScroller-26nc1e > main > div > .children-rWhLdy > div > .content-EpTwk1 > .tiers-3eUU7I > .tier-2pEkRl > .tierBody-3aUxuc {
     background-color: #202632;
 }
 
 #app-mount .tierHeaderLocked-1s2JJz,
-.layer-3QrUeG > div > .standardSidebarView-3F1I7i > .contentRegion-3nDuYy > .contentTransitionWrap-3hqOEW > .contentRegionScroller-26nc1e >main > div > .children-rWhLdy > div > .content-EpTwk1 > .tiers-3eUU7I > .tier-2pEkRl > .tierHeaderLocked-3S508x {
+.layer-3QrUeG > div > .standardSidebarView-3F1I7i > .contentRegion-3nDuYy > .contentTransitionWrap-3hqOEW > .contentRegionScroller-26nc1e > main > div > .children-rWhLdy > div > .content-EpTwk1 > .tiers-3eUU7I > .tier-2pEkRl > .tierHeaderLocked-3S508x {
     background-color: #13151d;
 }
 
