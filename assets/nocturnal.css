@@ -224,8 +224,12 @@
 	backdrop-filter: brightness(0.8);
 }
 
-.control-2BBjec > .container-3auIfb {
+.control-2BBjec > .container-3auIfb[style*="opacity: 1; background-color: hsl(139, calc(var(--saturation-factor, 1) * 47.3%), 43.9%);"] {
 	background-color: var(--mainColor) !important;
+}
+
+.control-2BBjec > .container-3auIfb:not([style*="opacity: 1; background-color: hsl(139, calc(var(--saturation-factor, 1) * 47.3%), 43.9%);"]) {
+	background-color: rgb(114, 118, 125) !important;
 }
 
 #app-mount {}
