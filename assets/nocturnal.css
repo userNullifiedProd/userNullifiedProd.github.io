@@ -40,7 +40,8 @@
 #app-mount .channelTextArea-rNsIhG,
 #app-mount .circleIconButton-1QV--U,
 #app-mount .scrollableContainer-2NUZem,
-#app-mount .searchBar-3dMhjb {
+#app-mount .searchBar-3dMhjb,
+.userPopout-xaxa6l {
 	background: var(--backgroundColor01) !important
 }
 
