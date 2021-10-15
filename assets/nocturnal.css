@@ -102,14 +102,17 @@
 
 .spotifyButtonLogo-3uT57D,
 .listenAlongIcon-2TkOLH,
-#app-mount .body-r6_QPy > .listScroller-3GmIYj > .activityProfile-2bJRaP > .bodyNormal-2D39hT > .flex-1xMQg5 > button > .contents-18-Yxp > .flex-1xMQg5 > .spotifyButtonLogo-3uT57D {
+#app-mount .body-r6_QPy > .listScroller-3GmIYj > .activityProfile-2bJRaP > .bodyNormal-2D39hT > .flex-1xMQg5 > button > .contents-18-Yxp > .flex-1xMQg5 > .spotifyButtonLogo-3uT57D,
+#app-mount .ctaBar-2UsjF2 > .actions-2fUYl0 > button > .giftActionContent-2dKrVJ > .giftIcon-ZxlWk5 {
 	color: var(--mainColor) !important;
 }
 #app-mount div.flex-1xMQg5.flex-1O1GKY.horizontal-1ae9ci.horizontal-2EEEnY.flex-1O1GKY.directionRow-3v3tfG.justifyStart-2NDFzi.alignStretch-DpGPf3.noWrap-3jynv6.buttonsWrapper-2spIeK.horizontal-3fI3M- > .disabledButtonWrapper-3wH6-b > button:disabled,
 #app-mount div.flex-1xMQg5.flex-1O1GKY.horizontal-1ae9ci.horizontal-2EEEnY.flex-1O1GKY.directionRow-3v3tfG.justifyStart-2NDFzi.alignStretch-DpGPf3.noWrap-3jynv6.buttonsWrapper-2spIeK.horizontal-3fI3M- > button,
 #app-mount .topSection-y3p-_D > header > .header-4zuFdR > .headerTop-547GTz > .relationshipButtons-pUQVkf > button,
 #app-mount .body-r6_QPy > .listScroller-3GmIYj > .activityProfile-2bJRaP > .bodyNormal-2D39hT > .flex-1xMQg5 > button,
-#app-mount .body-r6_QPy > .listScroller-3GmIYj > .activityProfile-2bJRaP > .bodyNormal-2D39hT > .flex-1xMQg5 > .disabledButtonWrapper-3wH6-b > button:disabled {
+#app-mount .body-r6_QPy > .listScroller-3GmIYj > .activityProfile-2bJRaP > .bodyNormal-2D39hT > .flex-1xMQg5 > .disabledButtonWrapper-3wH6-b > button:disabled,
+#app-mount .ctaBar-2UsjF2 > .actions-2fUYl0 > button,
+#app-mount .action-2cD_qI > button {
     background-color: white !important;
 }
 
@@ -138,7 +141,9 @@
 
 .button-2IFFQ4 > .contents-18-Yxp,
 #app-mount .topSection-y3p-_D > header > .header-4zuFdR > .headerTop-547GTz > .relationshipButtons-pUQVkf > button > .contents-18-Yxp,
-#app-mount .body-r6_QPy > .listScroller-3GmIYj > .activityProfile-2bJRaP > .bodyNormal-2D39hT > .flex-1xMQg5 > button > .contents-18-Yxp {
+#app-mount .body-r6_QPy > .listScroller-3GmIYj > .activityProfile-2bJRaP > .bodyNormal-2D39hT > .flex-1xMQg5 > button > .contents-18-Yxp,
+#app-mount .ctaBar-2UsjF2 > .actions-2fUYl0 > button > .contents-18-Yxp,
+#app-mount .action-2cD_qI > button > .contents-18-Yxp {
 	background: linear-gradient(135deg, rgba(5,117,230,1) 0%, rgba(170,85,255,1) 100%);
 	-webkit-text-fill-color: transparent;
 	-webkit-background-clip: text;
@@ -180,6 +185,16 @@
     font-size: 13px;
     margin-bottom: 8px;
     text-transform: uppercase;
+}
+
+.theme-dark .perksModal-fSYqOq > .perksModalContentWrapper-2HU6uL > .carouselContainer-2-vIZS > .carousel-6MSnEI > .carousel-18mXWH > .item-287JPa > .tierWrapper-W9ajqp > .carouselItem-g4c5Xp > div > .tierBody-16Chc9,
+#app-mount .perks-3OsGy8 > li,
+#app-mount .ctaBar-2UsjF2 {
+    background-color: #202632;
+}
+
+#app-mount .tierHeaderLocked-1s2JJz {
+    background-color: #13151d;
 }
 
 #app-mount {}
