@@ -105,7 +105,8 @@
 .spotifyButtonLogo-3uT57D,
 .listenAlongIcon-2TkOLH,
 #app-mount .body-r6_QPy > .listScroller-3GmIYj > .activityProfile-2bJRaP > .bodyNormal-2D39hT > .flex-1xMQg5 > button > .contents-18-Yxp > .flex-1xMQg5 > .spotifyButtonLogo-3uT57D,
-#app-mount .ctaBar-2UsjF2 > .actions-2fUYl0 > button > .giftActionContent-2dKrVJ > .giftIcon-ZxlWk5 {
+#app-mount .ctaBar-2UsjF2 > .actions-2fUYl0 > button > .giftActionContent-2dKrVJ > .giftIcon-ZxlWk5,
+.control-2BBjec > .container-3auIfb {
 	color: var(--mainColor) !important;
 }
 #app-mount div.flex-1xMQg5.flex-1O1GKY.horizontal-1ae9ci.horizontal-2EEEnY.flex-1O1GKY.directionRow-3v3tfG.justifyStart-2NDFzi.alignStretch-DpGPf3.noWrap-3jynv6.buttonsWrapper-2spIeK.horizontal-3fI3M- > .disabledButtonWrapper-3wH6-b > button:disabled,
@@ -207,6 +208,10 @@
 .layer-3QrUeG > div > .standardSidebarView-3F1I7i > .contentRegion-3nDuYy > div > div > div > .content-2HgFLu > div[role=list] > .flex-1xMQg5 > .header-1oWRg0 {
     border-color: transparent !important;
     background-color: var(--backgroundColor01);
+}
+
+.control-2BBjec > .container-3auIfb > .slider-TkfMQL[style*="left: 12px;"] > svg {
+    display: none;
 }
 
 #app-mount {}
