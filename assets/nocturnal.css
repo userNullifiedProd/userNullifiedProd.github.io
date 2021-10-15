@@ -62,6 +62,14 @@
 	background: linear-gradient(135deg, rgba(5,117,230,1) 0%, rgba(170,85,255,1) 100%);
 }
 
+#app-mount .topSection-y3p-_D,
+#app-mount .topSection-y3p-_D > header,
+#app-mount .topSection-y3p-_D > .tabBarContainer-37hZsr,
+#app-mount .body-r6_QPy {
+    background: rgb(5,117,230);
+    background: linear-gradient(90deg, rgba(5,117,230,1) 0%, rgba(170,85,255,1) 100%);
+}
+
 .activityUserPopout-2yItg2.activity-2INFPu.newPopoutActivityStyles {
 	backdrop-filter: brightness(0.8);
 	border-radius: 8px;
@@ -69,7 +77,8 @@
 }
 
 #app-mount .bodyInnerWrapper-26fQXj > div.note-1oo11U > textarea,
-#app-mount .inputDefault-_djjkz.input-cIJ7To.input-2_SIlA {
+#app-mount .inputDefault-_djjkz.input-cIJ7To.input-2_SIlA,
+#app-mount .body-r6_QPy > .infoScroller-1Qu30O > .userInfoSection-q_35fn > .note-367eZJ > textarea {
 	background-color: transparent !important;
 	backdrop-filter: brightness(0.8);
 }
@@ -106,7 +115,13 @@
 .inputDefault-_djjkz.input-cIJ7To.input-2_SIlA,
 .inputDefault-_djjkz.input-cIJ7To.input-2_SIlA::placeholder,
 .username-2b1r56.headerTagUsernameBase-1NqrY5,
-#app-mount .bodyInnerWrapper-26fQXj > div.note-1oo11U > textarea::placeholder {
+#app-mount .bodyInnerWrapper-26fQXj > div.note-1oo11U > textarea::placeholder,
+#app-mount .topSection-y3p-_D > header > .customStatusActivity-nmH3DF > .customStatusText-2opeSw > .customStatus-1COQYu > span,
+#app-mount .body-r6_QPy > .infoScroller-1Qu30O > .userInfoSection-q_35fn > .userInfoSectionHeader-3TYk6R,
+#app-mount .body-r6_QPy > .infoScroller-1Qu30O > .userInfoSection-q_35fn > .userBio-3tlrzS,
+#app-mount .body-r6_QPy > .infoScroller-1Qu30O > .userInfoSection-q_35fn > .note-367eZJ > textarea::placeholder,
+#app-mount .body-r6_QPy > .infoScroller-1Qu30O > .userInfoSection-q_35fn > .connectedAccounts-QlRa4m > .connectedAccount-2Jb-Z0 > .connectedAccountNameInner-2q3MVf > .connectedAccountName-E1KzaT,
+#app-mount .body-r6_QPy > .infoScroller-1Qu30O > .userInfoSection-q_35fn > .connectedAccounts-QlRa4m > .connectedAccount-2Jb-Z0 > a > .connectedAccountOpenIcon-E5wGF4 {
     color: white !important;
 }
 
@@ -118,8 +133,13 @@
 
 .detailsWrap-22pigg.textRow-19NEd_ > span > a,
 .state-Tt0LO3.ellipsis-1XUmPN.textRow-19NEd_ > span > a,
-.discrimBase-24vY8o {
+.discrimBase-24vY8o,
+#app-mount .nameTag-ECvD8P > .discriminator-1swucG {
 	color: #F1F1F1 !important;
+}
+
+#app-mount .topSection-y3p-_D > .tabBarContainer-37hZsr > .tabBar-3nvOPa > .tabBarItem-3dfX8P {
+    color: #f0efef !important;
 }
 
 #app-mount {}
