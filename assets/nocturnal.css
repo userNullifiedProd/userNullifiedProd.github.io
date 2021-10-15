@@ -73,6 +73,20 @@
 	margin-bottom: 16px;
 }
 
+#app-mount .bodyInnerWrapper-26fQXj > div.note-1oo11U > textarea,
+#app-mount .inputDefault-_djjkz.input-cIJ7To.input-2_SIlA {
+	background-color: transparent !important;
+	backdrop-filter: brightness(0.8);
+}
+
+#app-mount .bodyInnerWrapper-26fQXj > div.note-1oo11U > textarea::placeholder {
+	color: white !important;
+}
+
+#app-mount .bodyInnerWrapper-26fQXj > div.note-1oo11U {
+	margin-right: 4px;
+}
+
 .spotifyIcon-2J9kSv {
 	top: 6px !important;
 	right: 6px !important;
