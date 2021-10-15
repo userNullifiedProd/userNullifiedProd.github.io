@@ -680,7 +680,7 @@
 }
 
 #app-mount .input-cIJ7To {
-	background-color: #2b3342 !important;
+	background-color: var(--backgroundColor01) !important;
 	color: #fff !important;
 	border-color: transparent !important
 }
