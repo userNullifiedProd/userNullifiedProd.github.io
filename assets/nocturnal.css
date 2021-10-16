@@ -43,7 +43,8 @@
 #app-mount .channelTextArea-rNsIhG,
 #app-mount .circleIconButton-1QV--U,
 #app-mount .scrollableContainer-2NUZem,
-#app-mount .searchBar-3dMhjb {
+#app-mount .searchBar-3dMhjb,
+.layer-2KE1M9 > .focusLock-Ns3yie > .root-1gCeng > .content-1LAB8Z {
 	background: var(--backgroundColor01) !important
 }
 
@@ -70,8 +71,7 @@
 #app-mount .topSection-y3p-_D > .tabBarContainer-37hZsr,
 #app-mount .body-r6_QPy,
 #app-mount .topSection-y3p-_D > header > .header-4zuFdR > .headerTop-547GTz > .relationshipButtons-pUQVkf > button > .contents-18-Yxp,
-#app-mount .body-r6_QPy > .listScroller-3GmIYj > .activityProfile-2bJRaP > .bodyNormal-2D39hT > .flex-1xMQg5 > button > .contents-18-Yxp,
-.layer-2KE1M9 > .focusLock-Ns3yie > .root-1gCeng > .content-1LAB8Z {
+#app-mount .body-r6_QPy > .listScroller-3GmIYj > .activityProfile-2bJRaP > .bodyNormal-2D39hT > .flex-1xMQg5 > button > .contents-18-Yxp {
     background: rgb(5,117,230);
     background: linear-gradient(90deg, rgba(5,117,230,1) 0%, rgba(170,85,255,1) 100%);
 }
