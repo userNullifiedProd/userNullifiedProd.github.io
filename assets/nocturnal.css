@@ -547,6 +547,10 @@
 	transition: box-shadow 0.2s ease
 }
 
+.layer-v9HyYc > div > .userPopout-xaxa6l > .body-3HBlXn > .bodyInnerWrapper-26fQXj > .activityUserPopout-2yItg2.activity-2INFPu.newPopoutActivityStyles > div.flex-1xMQg5.flex-1O1GKY.vertical-V37hAW.flex-1O1GKY.directionColumn-35P_nr.justifyStart-2NDFzi.alignStretch-DpGPf3.wrap-ZIn9Iy.buttonsWrapper-2spIeK.vertical-3w1v88 > button {
+    background-color: white !important;
+}
+
 #app-mount .bd-button:not(.bd-button-danger):hover,
 #app-mount .lookFilled-1Gx00P.colorPrimary-3b3xI6:hover,
 #app-mount .lookFilled-1Gx00P.colorGrey-2DXtkV:hover,
