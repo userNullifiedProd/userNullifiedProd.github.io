@@ -30,7 +30,8 @@
 #app-mount .layer-3QrUeG,
 #app-mount .accountProfileCard-1XCH88,
 #app-mount .accountProfileCard-1XCH88 > .background-1QDuV2,
-.layer-2KE1M9 > .focusLock-Ns3yie > .root-1gCeng > .flex-1xMQg5 {
+.layer-2KE1M9 > .focusLock-Ns3yie > .root-1gCeng > .flex-1xMQg5,
+#MemberCount {
 	background-color: var(--backgroundColor02) !important
 }
 
@@ -86,7 +87,8 @@
 #app-mount .inputDefault-_djjkz.input-cIJ7To.input-2_SIlA,
 #app-mount .body-r6_QPy > .infoScroller-1Qu30O > .userInfoSection-q_35fn > .note-367eZJ > textarea,
 #app-mount .layer-v9HyYc > div > .userPopout-xaxa6l > .body-3HBlXn > .bodyInnerWrapper-26fQXj > .rolesList-1geHY1 > .role-2irmRk,
-#permissions-popout > ul > li {
+#permissions-popout > ul > li,
+.body-r6_QPy > .infoScroller-1Qu30O > .colorStandard-2KCXvj > .root-3-B5F3 > .role-2irmRk {
 	background-color: transparent !important;
 	backdrop-filter: brightness(0.8);
 }
@@ -141,7 +143,10 @@
 #app-mount .body-r6_QPy > .listScroller-3GmIYj > .activityProfile-2bJRaP > .headerContainer-1_MTZL > .headerText-1HLrL7 > .overflow-WK9Ogt,
 #app-mount .body-r6_QPy > .listScroller-3GmIYj > .activityProfile-2bJRaP > .bodyNormal-2D39hT > .content-3JfFJh > h3 > a,
 #app-mount .body-r6_QPy > .listScroller-3GmIYj > .activityProfile-2bJRaP > .bodyNormal-2D39hT > .content-3JfFJh > .textRow-19NEd_,
-.layer-2KE1M9 > .focusLock-Ns3yie > .root-1gCeng > .content-1LAB8Z > .card-2X8BSG > .container-28YWfK > .descriptionText-1EMft3 {
+.layer-2KE1M9 > .focusLock-Ns3yie > .root-1gCeng > .content-1LAB8Z > .card-2X8BSG > .container-28YWfK > .descriptionText-1EMft3,
+.userPopout-xaxa6l > .headerTop-3vNv-a > .headerText-1vVs-U > .date-YN6TCS,
+.userPopout-xaxa6l > .body-3HBlXn > .bodyInnerWrapper-26fQXj > div[class*="UserDetails"] > h3,
+#app-mount .topSection-y3p-_D > header > .date-YN6TCS {
     color: white !important;
 }
 
