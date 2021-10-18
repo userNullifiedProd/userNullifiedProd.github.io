@@ -146,7 +146,8 @@
 .layer-2KE1M9 > .focusLock-Ns3yie > .root-1gCeng > .content-1LAB8Z > .card-2X8BSG > .container-28YWfK > .descriptionText-1EMft3,
 .userPopout-xaxa6l > .headerTop-3vNv-a > .headerText-1vVs-U > .date-YN6TCS,
 .userPopout-xaxa6l > .body-3HBlXn > .bodyInnerWrapper-26fQXj > div[class*="UserDetails"] > h3,
-#app-mount .topSection-y3p-_D > header > .date-YN6TCS {
+#app-mount .topSection-y3p-_D > header > .date-YN6TCS,
+.textScroller-dc9_kz > div {
     color: white !important;
 }
 
@@ -247,6 +248,10 @@
 	border-radius: 8px !important;
 	background: transparent !important;
 	backdrop-filter: brightness(0.8) !important;
+}
+
+.colorLink-2vG20E {
+    filter: brightness(2);
 }
 
 #app-mount {}
