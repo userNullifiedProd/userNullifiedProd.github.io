@@ -539,7 +539,7 @@
 #app-mount .lookFilled-1Gx00P.colorBrand-3pXr91,
 #app-mount .lookFilled-1Gx00P.colorGreen-29iAKY:disabled,
 #app-mount .lookFilled-1Gx00P.colorGreen-29iAKY {
-	background-color: var(--mainColor) !important;
+	background-color: var(--mainColor);
 	-webkit-transition: box-shadow 0.2s ease;
 	-ms-transition: box-shadow 0.2s ease;
 	-o-transition: box-shadow 0.2s ease;
