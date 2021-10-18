@@ -232,6 +232,18 @@
 	background-color: rgb(114, 118, 125) !important;
 }
 
+.layerContainer-yqaFcK > .layer-2KE1M9 > .focusLock-Ns3yie > .root-3KobW4 > .container-3cQiRq {
+	margin-top: 16px !important;
+	margin-left: 16px !important;
+	margin-right: 16px !important;
+}
+
+.layerContainer-yqaFcK > .layer-2KE1M9 > .focusLock-Ns3yie > .root-3KobW4 > .container-3cQiRq > .content-1LAB8Z {
+	border-radius: 8px !important;
+	background: transparent !important;
+	backdrop-filter: brightness(0.8) !important;
+}
+
 #app-mount {}
 
 #app-mount .guildSeparator-33mFX6,
