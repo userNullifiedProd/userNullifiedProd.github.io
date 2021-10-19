@@ -251,7 +251,8 @@
 }
 
 .colorLink-2vG20E,
-.userPopout-xaxa6l > .body-3HBlXn > .aboutMeSection-1Fw5Ia > .aboutMeBody-3GuvKk > a {
+.userPopout-xaxa6l > .body-3HBlXn > .aboutMeSection-1Fw5Ia > .aboutMeBody-3GuvKk > a,
+div[aria-label="User Profile Modal"] > .root-3QyAh1 > .body-r6_QPy > .infoScroller-1Qu30O > .userInfoSection-q_35fn > .userBio-3tlrzS > a {
     filter: brightness(2);
 }
 
