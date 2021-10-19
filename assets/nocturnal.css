@@ -256,6 +256,10 @@ div[aria-label="User Profile Modal"] > .root-3QyAh1 > .body-r6_QPy > .infoScroll
     filter: brightness(2);
 }
 
+div[aria-label="User Profile Modal"] > .root-3QyAh1 > .body-r6_QPy > .infoScroller-1Qu30O > .userInfoSection-q_35fn > .userBio-3tlrzS::selection {
+    background-color: #32c8e2;
+}
+
 #app-mount {}
 
 #app-mount .guildSeparator-33mFX6,
