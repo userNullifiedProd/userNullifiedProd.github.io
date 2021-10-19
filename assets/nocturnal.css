@@ -250,7 +250,8 @@
 	backdrop-filter: brightness(0.8) !important;
 }
 
-.colorLink-2vG20E {
+.colorLink-2vG20E,
+.userPopout-xaxa6l > .body-3HBlXn > .aboutMeSection-1Fw5Ia > .aboutMeBody-3GuvKk > a {
     filter: brightness(2);
 }
 
